@@ -3870,7 +3870,7 @@ take precedence the ones in this file. */
 				}
 
 				.post.style1.invert a {
-					color: #fff;
+					color: #61565e;
 				}
 
 				.post.style1.invert strong, .post.style1.invert b {
@@ -3908,7 +3908,7 @@ take precedence the ones in this file. */
 					.post.style1.invert input[type="button"].alt,
 					.post.style1.invert button.alt,
 					.post.style1.invert .button.alt {
-						background-color: transparent;
+						background-color: #afb4aa;
 						box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
 						color: #fff !important;
 					}
@@ -4084,7 +4084,7 @@ take precedence the ones in this file. */
 				}
 
 				.post.style2.invert a {
-					color: #fff;
+					color: #61565e;
 				}
 
 				.post.style2.invert strong, .post.style2.invert b {
@@ -4138,7 +4138,7 @@ take precedence the ones in this file. */
 					.post.style2.invert input[type="button"].alt,
 					.post.style2.invert button.alt,
 					.post.style2.invert .button.alt {
-						background-color: transparent;
+						background-color: #afb4aa;
 						box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
 						color: #fff !important;
 					}
