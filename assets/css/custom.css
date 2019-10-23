@@ -44,12 +44,3 @@ p  {
   font-size: 21.6px;
   font-weight: 300;
 }
-
-h2 {
-  margin: 0;
-  padding: 50;
-  border: 50;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
