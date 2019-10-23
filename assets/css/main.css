@@ -5,7 +5,7 @@
 Then, you have to go through the css file to rename the fonts. The easist way is to find the rules in here
 or by using the web inspector in the browser. Then, rewrite the css rules in the "custom.css" file. They will
 take precedence the ones in this file. */
-@import url(""https://fonts.googleapis.com/css?family=Libre+Baskerville|Montserrat:300i,400&display=swap" rel="stylesheet"");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,700,300italic,700italic"); 
 
 /* Reset */
 
@@ -14,7 +14,7 @@ take precedence the ones in this file. */
 		padding: 50;
 		border: 50;
 		font-size: 100%;
-		font: Montserrat;
+		font: inherit;
 		vertical-align: baseline;
 	}
 
